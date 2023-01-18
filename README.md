@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virenribadiya" alt="virenribadiya" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Vue, Django, Express & REST APIs**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12J6qFdvNo2ciTq1RFiCY4wrsmMeRFA9M/view?usp=sharing](https://drive.google.com/file/d/12J6qFdvNo2ciTq1RFiCY4wrsmMeRFA9M/view?usp=sharing)
 
