@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Viren Ribadiya</h1>
 <h3 align="center">A full stack web developer & keen to be a part of real world projects.</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virenribadiya&label=Profile%20views&color=0e75b6&style=flat" alt="virenribadiya" /> </p>
-
 
 - 💬 Ask me about **Vue, Django, MERN & REST APIs**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12J6qFdvNo2ciTq1RFiCY4wrsmMeRFA9M/view?usp=sharing](https://drive.google.com/file/d/12J6qFdvNo2ciTq1RFiCY4wrsmMeRFA9M/view?usp=sharing)
 
 <h3 align="center">Connect with me</h3>
+
+
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/viren-ribadiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viren-ribadiya/" height="30" width="40" /></a>
