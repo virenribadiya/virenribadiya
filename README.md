@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viren Ribadiya</h1>
-<h3 align="center">A full stack web developer & keen to be a part of real world projects.</h3>
+<h3 align="center"> keen to be a part of real world projects.</h3>
+<!-- <h3 align="center">A full stack web developer & keen to be a part of real world projects.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virenribadiya&label=Profile%20views&color=0e75b6&style=flat" alt="virenribadiya" /> </p>
 
