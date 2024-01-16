@@ -6,18 +6,9 @@
 
 - 💬 Ask me about **Vue, Django, MERN & REST APIs**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12J6qFdvNo2ciTq1RFiCY4wrsmMeRFA9M/view?usp=sharing](https://drive.google.com/file/d/12J6qFdvNo2ciTq1RFiCY4wrsmMeRFA9M/view?usp=sharing)
-
-<h3 align="center">Connect with me</h3>
 
 
 
-<p align="center">
-<a href="https://www.linkedin.com/in/viren-ribadiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viren-ribadiya/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vribadiya278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vribadiya278" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vribadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vribadiya" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vribadiya278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vribadiya278" height="30" width="40" /></a>
-</p>
 
 > <h3 align="">Skills</h3>
  
