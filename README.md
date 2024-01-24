@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virenribadiya&label=Profile%20views&color=0e75b6&style=flat" alt="virenribadiya" /> </p>
 
-- 💬 Ask me about **Vue, Django, MERN & REST APIs**
+- 🔭 I’m currently working on **Web apps**
+- 💬 Ask me about **Vue.js, Django, MERN & REST APIs**
 
 
 
