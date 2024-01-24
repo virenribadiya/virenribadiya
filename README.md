@@ -5,11 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virenribadiya&label=Profile%20views&color=0e75b6&style=flat" alt="virenribadiya" /> </p>
 
 - 🔭 I’m currently working on **Web apps**
+
 - 💬 Ask me about **Vue.js, Django, MERN & REST APIs**
-
-
-
-
+<br/>
 
 > <h3 align="">Skills</h3>
  
